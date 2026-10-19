@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tilt Image</string>
+    <string name="android_image_description">Android image that moves when you tilt the phone</string>
+    <string name="no_accelerometer">This device has no accelerometer</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MadLab02" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ceb_red</item>
+        <item name="colorPrimaryDark">@color/ceb_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <style name="Theme.MadLab03" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand</item>
+        <item name="colorPrimaryDark">@color/brand_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+
+    <!-- Big, evenly sized operator buttons in a 2 x 2 grid -->
+    <style name="CalcButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:backgroundTint">@color/brand</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

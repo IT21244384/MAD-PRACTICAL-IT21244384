@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragment Calculator</string>
+    <string name="enter_number_1">Enter Number 1</string>
+    <string name="enter_number_2">Enter Number 2</string>
+    <string name="op_add">+</string>
+    <string name="op_subtract">−</string>
+    <string name="op_multiply">×</string>
+    <string name="op_divide">÷</string>
+    <string name="answer_format">Answer: %1$s</string>
+    <string name="back">Back</string>
+    <string name="enter_both_numbers">Enter both numbers</string>
+    <string name="invalid_number">Enter valid numbers</string>
+    <string name="divide_by_zero">Cannot divide by zero</string>
+</resources>

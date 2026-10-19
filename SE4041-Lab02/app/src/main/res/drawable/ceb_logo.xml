@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    PLACEHOLDER IMAGE - this is NOT the CEB logo.
+    The lab sheet's logo link could not be downloaded here. To use the real logo:
+      1. Download https://www.ceb.lk/assets/frontend/images/mainlogo5.png
+      2. Save it as  app/src/main/res/drawable/ceb_logo.png
+      3. Delete this file (ceb_logo.xml) - both use the resource name "ceb_logo".
+    Nothing else needs to change.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="280dp"
+    android:height="96dp"
+    android:viewportWidth="280"
+    android:viewportHeight="96">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M8,0h264a8,8 0,0 1,8 8v80a8,8 0,0 1,-8 8h-264a8,8 0,0 1,-8 -8v-80a8,8 0,0 1,8 -8z" />
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M148,10 L116,54 L136,54 L128,86 L164,38 L142,38 Z" />
+</vector>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CEB Bill Calculator</string>
+    <string name="ceb_logo_description">Ceylon Electricity Board logo</string>
+    <string name="lets_start">Let\'s Start</string>
+    <string name="enter_units">Enter Units</string>
+    <string name="calculate">Calculate</string>
+    <string name="electricity_bill">Electricity Bill:</string>
+    <string name="electricity_bill_result">Electricity Bill: LKR %1$s</string>
+    <string name="units_required">Please enter the number of units</string>
+</resources>
